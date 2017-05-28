@@ -1,4 +1,4 @@
-# Artificial Intelligence, Lab 4, Linköping University
+# Artificial Intelligence, Lab 4, Linköping University, Sweden, Fall 2016
 
 Solving a planning problem (Shakey's World) with the Fast Forward (FF) and Interference Progression Planner (IPP) planners, the PDDL language and some Python meta-programming to glue things together. For more info on the task we solved, go to "Alternative 2: Shakey's World" [here](https://www.ida.liu.se/~TDDC17/info/labs/lab4_planning.en.shtml).
 
